@@ -1,0 +1,51 @@
+body{
+    font-family: 'Noto Sans SC', sans-serif;
+    background-color: #f1f2f6;
+}
+
+.websiteName {
+    font-family: 'Ma Shan Zheng', cursive;
+    user-select: none;
+}
+
+.gap {
+    border-bottom: 1px solid #2f3542;
+}
+
+.card:hover {
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, .25);
+    transform: translateY(-5px);
+    transition: all .3s ease-in-out;
+}
+
+.text-dark:hover {
+    color: #a4b0be!important;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .25);
+}
+
+.side-di:hover {
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .25);
+    background-color: inherit;
+}
+
+.side-dropdown {
+    background-color: inherit;
+    border: none;
+}
+
+.card-color {
+    background-color: #dfe4ea;
+}
+
+.link-main {
+    text-decoration: none;
+    color: inherit;
+}
+
+.link-main:hover {
+    color: inherit;
+}
+
+.intro-text {
+    color: #2f3542;
+}
